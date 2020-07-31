@@ -9,6 +9,7 @@ Model consists of
 - [x] Collecting external data 
 - [x] Historical data 
 - [x] Mathematical modeling 
+- [x] Machine Learning Algorithm
 
 and is built in <a href="https://www.knime.com/">Knime</a> (open-source data analytics platform).
 
