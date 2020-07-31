@@ -4,7 +4,7 @@ It is an interactive dashboard for port to port freight rate dynamic pricing.
 
 # Platform
 
-Dashboard can be accessed at <a href="https://ischa.co/dynamic-pricing-dashboard/">here</a>.
+Dashboard can be accessed at <a href="https://ischa.co/dynamic-pricing-dashboard/">here</a>. Rate estimation table can be copied, perinted or saved as CSV, or Excel file.
 
 # Model
 
