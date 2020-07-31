@@ -11,7 +11,7 @@ Model consists of
 - [x] Mathematical modeling 
 - [x] Machine Learning Algorithm
 
-and is built in <a href="https://www.knime.com/">Knime</a> (open-source data analytics platform).
+and is built with <a href="https://www.knime.com/">Knime</a> (open-source data analytics platform).
 
 After data collection, preparation, and analysis, the optimum dynamic rates are calculated for each shipping route and load type (e.g. container 20, 40, 40HC, and 45HC) for the coming week.
 
