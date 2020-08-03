@@ -34,4 +34,4 @@ you will see the workflow:
 
 ## Data
 
-Sample data is included in the Data Folder.
+Sample data is also included in the zip file ("Data" Folder).
