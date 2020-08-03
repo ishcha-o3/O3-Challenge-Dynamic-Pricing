@@ -30,10 +30,8 @@ Currently, Singapore to Europe (7 ports) and vise versa are included in the mode
 
 you will see the workflow:
 
-![Workflow](https://github.com/ishcha-o3/O3-Challenge-Dynamic-Pricing/blob/master/workflow.jpg)
+![Workflow](https://github.com/ishcha-o3/O3-Challenge-Dynamic-Pricing/blob/master/workflow.png)
 
 ## Data
 
 Sample data is included in the Data Folder.
-
-
