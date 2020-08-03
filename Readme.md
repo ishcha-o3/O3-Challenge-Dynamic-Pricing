@@ -24,3 +24,16 @@ Currently, Singapore to Europe (7 ports) and vise versa are included in the mode
 # Built with
 <a href="https://www.knime.com/">Knime</a>
 
+1. Download Knime from https://www.knime.com/downloads
+2. Unzip "KNIME_Project_O3_ISCHA 1.zip" 
+3. Open Knime and then File> import workflow > open "KNIME_Project_O3_ISCHA 1.knwf" file
+
+you will see the workflow:
+
+![Workflow](https://github.com/ishcha-o3/O3-Challenge-Dynamic-Pricing/blob/master/workflow.jpg)
+
+## Data
+
+Sample data is included in the Data Folder.
+
+
